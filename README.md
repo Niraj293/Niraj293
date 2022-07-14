@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Niraj293
-- 👀 I’m interested in data analytics and data science  
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in working on data science projects as well as data analytics projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- sapeniraj@gmail.com
 
